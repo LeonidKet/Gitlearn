@@ -1,4 +1,4 @@
-print("Goodby")
-print("Goodby all")
-print("Say goodby")
-print("Allby")
+print("Goodby;")
+print("Goodby all;")
+print("Say goodby;")
+print("All")
