@@ -1,3 +1,4 @@
 print("Goodby")
 print("Goodby all")
 print("Say goodby")
+print("Allby")
